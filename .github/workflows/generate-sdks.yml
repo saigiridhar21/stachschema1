@@ -53,3 +53,4 @@ jobs:
       - name: Raise or update SDKs pull request
         if: steps.schema-change-check.outputs.is-schema-changed == 'true'
         run: ${{ github.event.repository.name }}/.github/scripts/raise-pull-request.sh
+
