@@ -18,4 +18,6 @@ message Package {
 
   // The map (key: table id) of all tables
   map<string, factset.protobuf.stach.table.Table> tables = 3;
+  
+  string last_generated_at = 4;
 }
