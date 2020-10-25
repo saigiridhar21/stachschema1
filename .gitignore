@@ -1,0 +1,7 @@
+generate-examples/.vs/
+generate-examples/**/*.user
+generate-examples/**/bin/
+generate-examples/**/obj/
+generate-examples/packages/
+node_modules/
+.DS_Store

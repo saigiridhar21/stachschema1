@@ -1,0 +1,7 @@
+- [Home](README)
+- [Motivation](Motivation)
+- Versions
+	- [STACH v2](v2/README)
+	- [STACH v1](v1/README)
+- [Terminology](Terminology)
+- [Changelog](CHANGELOG)
